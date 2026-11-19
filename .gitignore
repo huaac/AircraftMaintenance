@@ -1,3 +1,8 @@
+.idea
+data/cleaned/
+data/engineered/
+data/labeled/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
